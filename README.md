@@ -44,4 +44,3 @@ Based on our analysis, we compiled insights that can guide potential investment 
 This project provides valuable insights into the San Francisco real estate market, aiding in decision-making for potential real estate investments.
 
 For a more detailed analysis and visualisations, please refer to the [Jupyter Notebook](https://github.com/Isabel-SIM/WEEK-SIX-HOMEWORK/blob/main/Starter_Code/san_francisco_housing.ipynb)
-

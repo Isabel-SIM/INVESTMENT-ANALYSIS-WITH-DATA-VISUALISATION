@@ -28,7 +28,7 @@ We explored the average sale price per square foot by neighborhood, creating int
 **Key Finding**: For the Anza Vista neighborhood, the average sale price per square foot in 2016 was higher than in 2012.
 
 ### 4. Interactive Neighborhood Map
-We built an interactive neighborhood map to visualize geospatial relationships in the data, highlighting neighborhoods with the highest gross rent and sale price per square foot.
+We built an interactive neighborhood map to visualise geospatial relationships in the data, highlighting neighborhoods with the highest gross rent and sale price per square foot.
 
 **Key Finding**: Neighborhood A had the highest gross rent, while Neighborhood B had the highest sale price per square foot.
 
@@ -43,5 +43,5 @@ Based on our analysis, we compiled insights that can guide potential investment 
 ## Conclusion
 This project provides valuable insights into the San Francisco real estate market, aiding in decision-making for potential real estate investments.
 
-For a more detailed analysis and visualizations, please refer to the [Jupyter Notebook](https://github.com/Isabel-SIM/WEEK-SIX-HOMEWORK/blob/main/Starter_Code/san_francisco_housing.ipynb)
+For a more detailed analysis and visualisations, please refer to the [Jupyter Notebook](https://github.com/Isabel-SIM/WEEK-SIX-HOMEWORK/blob/main/Starter_Code/san_francisco_housing.ipynb)
 
